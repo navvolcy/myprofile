@@ -27,11 +27,10 @@ const About = () =>{
                         </div>
                         <div>
                             <p>
-                                Nav,
                                 A software developer with experience in building Responsive and
                                 Scalable Web apps. I have knowledge in UI/UX principles. Coupled with 
                                 good communication skills. In additoin to understanding the technologies needed to 
-                                build web apps.
+                                build web applications.
                             </p>
                         </div>
                     </div>
