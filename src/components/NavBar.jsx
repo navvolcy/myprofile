@@ -36,8 +36,8 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link to='education' smooth={true} duration={500}>
-              Education
+            <Link to='works' smooth={true} duration={500}>
+              Works
             </Link>
           </li>
           <li>
@@ -78,7 +78,7 @@ const Navbar = () => {
           <li className='py-6 text-4xl'>
             {' '}
             <Link onClick={handleClick} to='work' smooth={true} duration={500}>
-              Education
+              Works
             </Link>
           </li>
           <li className='py-6 text-4xl'>
@@ -110,7 +110,7 @@ const Navbar = () => {
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
               <a
                 className='flex justify-between items-center w-full text-gray-300'
-                href='/'
+                href='mailto:navvolcy@gmail.com'
               >
                 Email <HiOutlineMail size={30} />
               </a>
@@ -118,7 +118,7 @@ const Navbar = () => {
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
               <a
                 className='flex justify-between items-center w-full text-gray-300'
-                href='/'
+                href='https://drive.google.com/file/d/13axqin5K2lPuWpKHYL5Gr2H7GCwVmJI3/view?usp=drive_link'
               >
                 Resume <BsFillPersonLinesFill size={30} />
               </a>
