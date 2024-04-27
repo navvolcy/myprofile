@@ -15,7 +15,7 @@ const Skills = () =>
                         <p className="my-4">React</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                        <p className="my-4">UI/UX</p>
+                        <p className="my-4">C++</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <p className="my-4">JavaScript</p>
@@ -27,7 +27,7 @@ const Skills = () =>
                         <p className="my-4">Tailwind</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                        <p className="my-4">GITHUB</p>
+                        <p className="my-4">Java</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                         <p className="my-4">Node JS</p>
@@ -45,7 +45,7 @@ const Skills = () =>
                         <p className="my-4">Socket.IO</p>
                     </div>
                     <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                        <p className="my-4">Java</p>
+                        <p className="my-4">Kotlin</p>
                     </div>
                     
 
