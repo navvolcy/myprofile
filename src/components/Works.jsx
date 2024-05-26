@@ -60,11 +60,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                TBA
+                Mega
               </span>
-              <p className='text-center'></p>
+              <p className='text-center'> UVU mega site</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/navvolcy/mega'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
