@@ -79,12 +79,12 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                TBA
+                Mobile app
               </span>
-              <p className='text-center'></p>
+              <p className='text-center'>Rediscover-Sports group</p>
               <div className='pt-8 text-center'>
                
-                <a href='/'>
+                <a href='https://github.com/Rediscover-Sports/mobile'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
