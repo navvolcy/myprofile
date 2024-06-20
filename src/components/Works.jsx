@@ -23,7 +23,7 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 UVU website
               </span>
-              <p className='text-center'>Using vanilla js </p>
+              <p className='text-center'>Mega</p>
               <div className='pt-8 text-center'>
                
                 <a href='https://github.com/navvolcy/mega'>
@@ -41,9 +41,9 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Employee app
+                Docker
               </span>
-              <p className='text-center'>A translation that uses sockets</p>
+              <p className='text-center'>Employee app</p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/navvolcy/docker'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -60,9 +60,9 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Writer's Room Podcast
+                Podcast
               </span>
-              <p className='text-center'> UVU mega site</p>
+              <p className='text-center'>Writer's Room </p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/navvolcy/writersroom'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
