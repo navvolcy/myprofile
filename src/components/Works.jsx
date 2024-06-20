@@ -26,7 +26,7 @@ const Works = () => {
               <p className='text-center'>Using vanilla js </p>
               <div className='pt-8 text-center'>
                
-                <a href='https://github.com/navvolcy/json-server-nblldr/tree/Node-Express-Practicum'>
+                <a href='https://github.com/navvolcy/mega'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -41,11 +41,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Translation app
+                Employee app
               </span>
               <p className='text-center'>A translation that uses sockets</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/navvolcy/docker'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -60,11 +60,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Mega
+                Writer's Room Podcast
               </span>
               <p className='text-center'> UVU mega site</p>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/navvolcy/mega'>
+                <a href='https://github.com/navvolcy/writersroom'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
