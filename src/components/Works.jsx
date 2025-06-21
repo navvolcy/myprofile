@@ -21,9 +21,9 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                UVU website
+                Utah Valley University webpage
               </span>
-              <p className='text-center'>Mega</p>
+              <p className='text-center'>React, Node JS, MongoDB</p>
               <div className='pt-8 text-center'>
                
                 <a href='https://github.com/navvolcy/mega'>
@@ -41,9 +41,9 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Docker
+                Employee List app
               </span>
-              <p className='text-center'>Employee app</p>
+              <p className='text-center'>Docker, React, Node JS</p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/navvolcy/docker'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -60,9 +60,9 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Podcast
+                Writer's Room podcast
               </span>
-              <p className='text-center'>Writer's Room </p>
+              <p className='text-center'> React, Node Js , Express, MongoDB </p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/navvolcy/writersroom'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -79,9 +79,9 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Mobile app
+                Mobile Sports app
               </span>
-              <p className='text-center'>Rediscover-Sports group</p>
+              <p className='text-center'> react/typscript</p>
               <div className='pt-8 text-center'>
                
                 <a href='https://github.com/Rediscover-Sports/mobile'>
@@ -99,11 +99,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                TBA
+                FillUs Medical app
               </span>
-              <p className='text-center'></p>
+              <p className='text-center'>.Net Maui, C#, ASP.NET, Entity Framework</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/Polar-Bear-s-Computing/FillUs/tree/FillUsDB'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -118,11 +118,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                TBA
+                Movies
               </span>
-              <p className='text-center'></p>
+              <p className='text-center'>razorpages, C#, MVC & ASP.Net, Entity Framework</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/navvolcy/RazorPagesMovie'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
