@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio site! 🚀
 This project showcases my skills, projects, and background in full-stack development and computer science.
 
 ### 🌐 Live Site  
-**[https://navvolcy.github.io/myprofile](https://navvolcy.github.io/myprofile)**  
+**[https://navvolcy.github.io/myprofile/](https://navvolcy.github.io/myprofile/)**  
 
 
 ---
