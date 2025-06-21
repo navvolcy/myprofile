@@ -5,7 +5,7 @@ This project showcases my skills, projects, and background in full-stack develop
 
 ### 🌐 Live Site  
 **[https://navvolcy.github.io/myprofile](https://navvolcy.github.io/myprofile)**  
-Replace `your-repo-name` with your actual repo name.
+
 
 ---
 
@@ -35,7 +35,7 @@ To run this project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/navvolcy/myportfolimyprofile.git
+git clone https://github.com/navvolcy/myprofile.git
 
 # Install dependencies
 npm install
